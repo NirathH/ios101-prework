@@ -8,13 +8,13 @@ Submitted by: **Nirath Hussan**
 **Very Useful Button** is an app that... [TODO] 
 - Changes the background to a random color with every click.
 
-Time spent: **2** hours spent in total
+Time spent: **3.0** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users are to see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
